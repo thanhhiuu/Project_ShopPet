@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EstoreWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EstoreWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\08c32bcb-9a9d-43ea-8e8e-8048a6c0b89a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\08c32bcb-9a9d-43ea-8e8e-8048a6c0b89a.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\08e25074-cf19-4685-8a45-909bc40bc2d9.png",
+      "PackagePath": "staticwebassets\\images\\products\\08e25074-cf19-4685-8a45-909bc40bc2d9.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\191404cf-4f26-483e-9aef-80da1ea8938a.png",
+      "PackagePath": "staticwebassets\\images\\products\\191404cf-4f26-483e-9aef-80da1ea8938a.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\2a19f695-83eb-4ac0-9278-31f1aa1d0de8.png",
+      "PackagePath": "staticwebassets\\images\\products\\2a19f695-83eb-4ac0-9278-31f1aa1d0de8.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\2af249e8-642c-4aa2-92e7-058c656b3d06.png",
+      "PackagePath": "staticwebassets\\images\\products\\2af249e8-642c-4aa2-92e7-058c656b3d06.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\2f5ba9fb-63b3-4d29-93f9-af586ced317e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2f5ba9fb-63b3-4d29-93f9-af586ced317e.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\37e0b54d-6dee-442e-a8c9-85d34b88bad3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\37e0b54d-6dee-442e-a8c9-85d34b88bad3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\3ea5f39f-1675-4c53-85bc-ef15b117d347.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3ea5f39f-1675-4c53-85bc-ef15b117d347.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\4be4455a-6203-4689-959b-69ac01c348f1.png",
+      "PackagePath": "staticwebassets\\images\\products\\4be4455a-6203-4689-959b-69ac01c348f1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\5c0c594e-8c31-4c4f-8738-066f2cda7f7f.png",
+      "PackagePath": "staticwebassets\\images\\products\\5c0c594e-8c31-4c4f-8738-066f2cda7f7f.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\8c9b85b4-e3e1-46e9-a40a-a846250aa3d0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8c9b85b4-e3e1-46e9-a40a-a846250aa3d0.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\8d6e6cd9-97c2-4584-9fde-a78a54ca6282.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8d6e6cd9-97c2-4584-9fde-a78a54ca6282.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\9a08bbf9-661c-49a7-aa70-f392a7204951.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9a08bbf9-661c-49a7-aa70-f392a7204951.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\aafcdb5c-9011-45b5-b875-7b00d961e8f0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\aafcdb5c-9011-45b5-b875-7b00d961e8f0.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\aeebbff4-e02b-42a7-aa25-241fbd32be16.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\aeebbff4-e02b-42a7-aa25-241fbd32be16.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\c46b7b5d-a969-4685-a923-0cd4245512ce.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c46b7b5d-a969-4685-a923-0cd4245512ce.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\c4e1cd07-cd4a-4ff7-ac87-3edcadcad261.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c4e1cd07-cd4a-4ff7-ac87-3edcadcad261.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\cce22c98-371b-48d0-b32c-20f148c3caeb.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cce22c98-371b-48d0-b32c-20f148c3caeb.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\d2e4e5a0-130b-411a-8413-674c857d5760.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d2e4e5a0-130b-411a-8413-674c857d5760.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\e112bc65-1405-4603-9f46-8ee1e080c763.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\e112bc65-1405-4603-9f46-8ee1e080c763.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\f085e45c-879b-440b-9d2d-d6e3d773aac3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f085e45c-879b-440b-9d2d-d6e3d773aac3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\f163e341-8f6c-44a8-b12b-9056c5152aae.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f163e341-8f6c-44a8-b12b-9056c5152aae.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\images\\products\\fce0cfda-519c-4f52-a428-c17cad431732.png",
+      "PackagePath": "staticwebassets\\images\\products\\fce0cfda-519c-4f52-a428-c17cad431732.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EstoreWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EstoreWeb.props",
+      "PackagePath": "build\\EstoreWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EstoreWeb.props",
+      "PackagePath": "buildMultiTargeting\\EstoreWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EstoreWeb.props",
+      "PackagePath": "buildTransitive\\EstoreWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

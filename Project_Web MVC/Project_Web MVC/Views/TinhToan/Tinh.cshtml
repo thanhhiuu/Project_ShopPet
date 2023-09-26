@@ -1,0 +1,37 @@
+﻿
+@model MayTinhModel
+
+<h2>Tính toán đon giản</h2>
+<hr />
+
+<form asp-action="XuLy1" method="post">
+    <div class="container">
+
+        <div class="form-group">
+            <label>Nhập số thứ nhất: </label>
+            <input asp-for="num1" value="@ViewBag.num1" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Nhập số thứ hai: </label>
+            <input asp-for="num2" value="@ViewBag.num2" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Phép toán </label>
+            <select asp-for="op" class="form-control">
+                <option value="+" selected="@(ViewBag.op=="+"?true:false)">Cộng</option>
+                <option value="-" selected="@(ViewBag.op=="-"?true:false)">Trừ</option>
+                <option value="*" selected="@(ViewBag.op=="*"?true:false)">Nhân</option>
+                <option value="/" selected="@(ViewBag.op=="/"?true:false)">Chia</option>
+            </select>
+        </div>
+        <button class="btn btn-success my-1" type="submit">Tính</button>
+    </div>
+</form>
+
+
+@if (ViewBag.KQ != null)
+{
+    <div class="container">
+        <h2>Kết quả là: @ViewBag.KQ</h2>
+    </div>
+}

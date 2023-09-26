@@ -1,0 +1,23 @@
+﻿@model List<MemberInfo>
+<h2>Giới thiệu về các hành viên trong gia đình</h2>
+<hr />
+
+<div class="row">
+    @foreach(var items in Model ) {
+    <div class="col-4 ml-4 mb-4">
+        <div class="card">
+            <div class="card-header">
+                <img class="img-fluid" src="~/uploads/@items.Hinh"  >
+            </div>
+            <div class="card-body">
+                <ul>
+                    <li>Họ tên: @items.HoTen </li>
+                        <li>Tuổi: @items.Tuoi </li>
+                        <li>Nghề nghiệp: @items.NgheNghiep </li>
+                        <li>Quan Hệ: @items.QuanHe </li>
+                </ul>
+            </div>
+        </div>
+    </div> 
+    }
+</div>

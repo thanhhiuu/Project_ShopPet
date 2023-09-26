@@ -1,0 +1,42 @@
+﻿@model Product
+<div class=" d-flex flex-xxl-row">
+    <div class="" style="width: 25rem; height: 400px; margin-right:20px;">
+        <img src="/@Model.ImageUrl" class="card-img-top img-fluid" alt="...">
+        
+    </div>
+    <div class="mx-4" style="width: 100vw;">
+        <div class="alert alert-success" role="alert">
+            A simple success alert—check it out!
+        </div>
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Gia</p>
+        <p class="card-text">@Html.Raw(@Model.ChuThich)</p>
+        <a asp-action="Detail" asp-route-id="@Model.Id" class="btn btn-outline-success">
+            Add To Card
+        </a>
+    </div>
+</div>
+
+
+<!-- Hiển thị thông tin sản phẩm -->
+
+<h2>Sản phẩm liên quan</h2>
+
+<div class="row">
+    @foreach (var x in ViewBag.Product)
+    {
+        <div class="col-3">
+
+            <div class="card" style="height: 400px;">
+
+                <img src="/@x.ImageUrl" style="height: 250px;" class="card-img-top img-fluid">
+
+                <div class="card-body">
+                    <h5 class="card-title">@x.Name</h5>
+                    <a asp-action="Detail" asp-route-id="@Model.Id" class="btn btn-primary">Xem chi tiết</a>
+                </div>
+
+            </div>
+        </div>
+    }
+</di>
