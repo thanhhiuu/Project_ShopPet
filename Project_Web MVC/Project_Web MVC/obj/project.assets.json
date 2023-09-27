@@ -3467,11 +3467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET MVC\\Project_Web MVC\\Project_Web MVC\\Project_Web MVC.csproj",
+      "projectUniqueName": "D:\\ASP.NET MVC\\Project_ShopPet\\Project_Web MVC\\Project_Web MVC\\Project_Web MVC.csproj",
       "projectName": "Project_Web MVC",
-      "projectPath": "D:\\ASP.NET MVC\\Project_Web MVC\\Project_Web MVC\\Project_Web MVC.csproj",
+      "projectPath": "D:\\ASP.NET MVC\\Project_ShopPet\\Project_Web MVC\\Project_Web MVC\\Project_Web MVC.csproj",
       "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET MVC\\Project_Web MVC\\Project_Web MVC\\obj\\",
+      "outputPath": "D:\\ASP.NET MVC\\Project_ShopPet\\Project_Web MVC\\Project_Web MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

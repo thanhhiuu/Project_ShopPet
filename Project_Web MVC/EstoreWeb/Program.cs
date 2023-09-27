@@ -31,6 +31,12 @@ builder.Services.Configure<RazorViewEngineOptions>(options => {
 builder.Services.Configure<RazorViewEngineOptions>(options => {
     options.AreaViewLocationFormats.Add("/Areas/Admin/Views/{1}/{0}.cshtml");
 });
+builder.Services.AddSession(options =>
+{
+    options.Cookie.Name = ".AdventureWorks.Session";
+    options.IdleTimeout = TimeSpan.FromSeconds(10);
+    options.Cookie.IsEssential = true;
+});
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
@@ -92,6 +98,7 @@ app.UseRouting();
 
 app.UseAuthentication();
 app.UseAuthorization();
+app.UseSession();
 app.MapRazorPages();
 app.MapControllerRoute(
     name: "areas",

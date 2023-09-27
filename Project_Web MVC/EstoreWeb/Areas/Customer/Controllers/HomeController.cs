@@ -50,9 +50,6 @@ namespace EstoreWeb.Controllers
         {
             return View();
         }
-
-
-
         public IActionResult Detail(int id)
         {
             var obj = db.Products.Find(id);

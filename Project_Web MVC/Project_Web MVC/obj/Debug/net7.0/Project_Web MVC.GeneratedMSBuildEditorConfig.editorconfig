@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project_Web_MVC
 build_property.RootNamespace = Project_Web_MVC
-build_property.ProjectDir = D:\ASP.NET MVC\Project_Web MVC\Project_Web MVC\
+build_property.ProjectDir = D:\ASP.NET MVC\Project_ShopPet\Project_Web MVC\Project_Web MVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ASP.NET MVC\Project_Web MVC\Project_Web MVC
+build_property.MSBuildProjectDirectory = D:\ASP.NET MVC\Project_ShopPet\Project_Web MVC\Project_Web MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/Family/Index.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/Family/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/Family/Member.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/Family/Member.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5XE1lbWJlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/Family/My.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/Family/My.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5XE15LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/FupLoad/Index.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/FupLoad/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVwTG9hZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/Home/Index.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/Home/Privacy.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/Home/Typer4.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/Home/Typer4.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUeXBlcjQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/Home/Typer5.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/Home/Typer5.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUeXBlcjUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/News/Index.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/News/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/Shared/Error.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/TinhToan/Index.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/TinhToan/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRvYW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/TinhToan/KetQua.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/TinhToan/KetQua.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRvYW5cS2V0UXVhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/TinhToan/Tinh.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/TinhToan/Tinh.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaFRvYW5cVGluaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/_ViewImports.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/_ViewStart.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET MVC/Project_Web MVC/Project_Web MVC/Views/Shared/_Layout.cshtml]
+[D:/ASP.NET MVC/Project_ShopPet/Project_Web MVC/Project_Web MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9kpsx9ouf8

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8EDgWJgeOMg/A11feTf8pnWQx4VUWbudgDq+9T1nsP88bauLkx9vk2CFrYN1DI7LORbqt450RGTrSW6Nkp/muA==",
+  "dgSpecHash": "oypnn+edU139YD2P/fmoEsn9An40SUxvgdZm7NoEE6YL2fVCB3Y7EMM/d3jlXAsurhNOpSvnYPDUkev7ls4bnw==",
   "success": true,
-  "projectFilePath": "D:\\ASP.NET MVC\\Project_Web MVC\\EstoreWeb\\EstoreWeb.csproj",
+  "projectFilePath": "D:\\ASP.NET MVC\\Project_ShopPet\\Project_Web MVC\\EstoreWeb\\EstoreWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thanh\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

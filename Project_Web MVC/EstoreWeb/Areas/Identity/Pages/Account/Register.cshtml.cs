@@ -119,7 +119,6 @@ namespace EstoreWeb.Areas.Identity.Pages.Account
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_Customer)).GetAwaiter().GetResult();
 
             }
-
             // Lấy role để cung cấp cho UI/UX đăng ký   
             Input = new InputModel()
             {
